@@ -1,2 +1,2 @@
-# Entrega-Final-Rodriguez-Arianna
+# Entrega
 Proyecto Final CoderHouse Python
